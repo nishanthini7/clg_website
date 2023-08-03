@@ -1,0 +1,64 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+}
+.col-1{
+    width: 8.3333333%; 
+    border: solid 1px red;
+    min-height: 50px;
+}
+.col-2{
+    width: 16.66666667%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+.col-3{
+    width: 25%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+.col-4{
+    width: 33.33333%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+.col-5{
+    width: 41.66666667%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+.col-6{
+    width: 50%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+.col-12{
+    width: 100%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+.justify-center{
+    justify-content: space-around;
+}
+.wrap-wrap{
+    flex-wrap: wrap;
+}
+.col{
+    border: solid 1px red;
+    min-height: 40px;
+}
+.header-top{
+    background-color: #169FCC;
+    min-height: 80px;
+}
+.nav-section{
+    background-color: #169FCC;
+    min-height: 80px;
+}
+.academic{
+    background-color: #169FCC;
+    min-height: 500px;
+}
